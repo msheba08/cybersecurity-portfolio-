@@ -15,7 +15,7 @@ pursuing a Cybersecurity and information Security
 - 🏫 Student at ECPI University 
 
 - 🎯 Interests: Penetration Testing, Network Defense, SOC Analysis
-- - 📜 Certifications: CompTIA Security+, in progress
+- 📜 Certifications: CompTIA Security+, in progress
 
 | certifications/ | Cert study notes and badges |
 
