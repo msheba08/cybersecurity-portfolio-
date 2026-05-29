@@ -17,9 +17,7 @@ pursuing a Cybersecurity and information Security
 - 🎯 Interests: Penetration Testing, Network Defense, SOC Analysis
 - - 📜 Certifications: CompTIA Security+, in progress
 
-| certifications/ | Cert study notes and badges | 
-
-| writeups/ | CTF and security challenge writeups | 
+| certifications/ | Cert study notes and badges |
 
 
 ## Portfolio Contents
