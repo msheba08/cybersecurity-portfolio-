@@ -1,7 +1,7 @@
-# cybersecurity-portfolio-
+# cybersecurity portfolio
 My professional cybersecurity portfolio - labs, projects, and certifications
 nano README.md 
-# 🔒 Cybersecurity Portfolio — [Bathsheba Myers] 
+# 🔒 Cybersecurity Portfolio — Bathsheba Myers 
 
  
 
