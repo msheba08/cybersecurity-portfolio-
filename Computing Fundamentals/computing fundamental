@@ -58,3 +58,17 @@ In Computing Fundamentals, I developed a strong understanding of basic computer 
 - Explore career opportunities in information technology
 
 ---
+
+## Repository Structure
+
+```text
+Computing-Fundamentals-Portfolio/
+│
+├── README.md
+├── artifacts/
+│   ├── assignment1.pdf
+│   ├── assignment2.pdf
+│   └── toolkit-project/
+│
+└── reflection/
+    └── course-reflection.md
